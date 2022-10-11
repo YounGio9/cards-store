@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/cards-store/static/css/main.087061f5.css",
+    "main.js": "/cards-store/static/js/main.a2859379.js",
+    "static/js/787.c161fe83.chunk.js": "/cards-store/static/js/787.c161fe83.chunk.js",
+    "static/media/steam.png": "/cards-store/static/media/steam.0f41bd8be53ddebe66be.png",
+    "static/media/PCS.png": "/cards-store/static/media/PCS.03f144640748ade91e53.png",
+    "static/media/Titleform.png": "/cards-store/static/media/Titleform.531655ceb039bdd1db63.png",
+    "static/media/logo.png": "/cards-store/static/media/logo.b99e38950ce78f1ac816.png",
+    "static/media/NeoSurf.png": "/cards-store/static/media/NeoSurf.304b6ab2cea9cd8d1460.png",
+    "static/media/transcash.png": "/cards-store/static/media/transcash.348f2a82b0d7447299ad.png",
+    "static/media/CartesEté.png": "/cards-store/static/media/CartesEté.802c0f8c84171e4324ba.png",
+    "static/media/Excellent.png": "/cards-store/static/media/Excellent.dcf383b68a1b89033d60.png",
+    "static/media/googlePlay.png": "/cards-store/static/media/googlePlay.5c21518828221e0f083c.png",
+    "static/media/TRANSCASH.png": "/cards-store/static/media/TRANSCASH.234722a7a247113bd414.png",
+    "static/media/PCS-2.png": "/cards-store/static/media/PCS-2.f938272d28e3ddfb1abc.png",
+    "index.html": "/cards-store/index.html",
+    "main.087061f5.css.map": "/cards-store/static/css/main.087061f5.css.map",
+    "main.a2859379.js.map": "/cards-store/static/js/main.a2859379.js.map",
+    "787.c161fe83.chunk.js.map": "/cards-store/static/js/787.c161fe83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.087061f5.css",
+    "static/js/main.a2859379.js"
+  ]
+}
